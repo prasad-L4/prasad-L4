@@ -3,10 +3,6 @@
 </h1>
 <br/>
 <div align="center">
- 
- 🔭 I’m currently working on *a marketplace*
- 
- 🌱 I’m currently learning *Docker, Supabase, AWS*
 
 💬 Ask me about , React, Html,css... or anything*
 
