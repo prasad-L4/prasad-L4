@@ -8,9 +8,13 @@
  
  🌱 I’m currently learning *Docker, Supabase, AWS*
 
-💬 Ask me about , React, Html,css... or anything [here](krishnaprasad8369@gmail.com)*
+💬 Ask me about , React, Html,css... or anything*
 
  </div>
+
+
+
+ 
  <div align="center"> 
   <a href="mailto:krishnaprasad8369@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
